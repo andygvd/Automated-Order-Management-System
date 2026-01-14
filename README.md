@@ -38,11 +38,3 @@ Data Layer: PostgreSQL stores relational data with optimized indexing for fast r
 
 Cloud Layer: Images/Assets stored in AWS S3; System health monitored via AWS CloudWatch.
 
-🚦 Getting Started
-(Note: This project is currently in active deployment to AWS.)
-
-Clone the repo: git clone https://github.com/YOUR_USERNAME/order-management-api.git
-
-Configure Database: Update application.properties with your PostgreSQL credentials.
-
-Run Application: ./mvnw spring-boot:run
